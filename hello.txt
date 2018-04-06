@@ -1,0 +1,6 @@
+#!/bin/bash  
+# This is our first script.  
+cd /tmp
+mkdir getip
+cd getip
+ip addr
